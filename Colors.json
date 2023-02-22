@@ -1,0 +1,3502 @@
+[
+    {
+        "Year": "1994",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 0
+            },
+            {
+                "name": "Blue",
+                "value": 0
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 0
+            },
+            {
+                "name": "Green",
+                "value": 0
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 0
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 0
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 0
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "1995",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 1
+            },
+            {
+                "name": "Blue",
+                "value": 0
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 0
+            },
+            {
+                "name": "Green",
+                "value": 0
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 0
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 1
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 0
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "1996",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 1
+            },
+            {
+                "name": "Blue",
+                "value": 0
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 0
+            },
+            {
+                "name": "Green",
+                "value": 0
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 0
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 1
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 0
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "1997",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 3
+            },
+            {
+                "name": "Blue",
+                "value": 0
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 0
+            },
+            {
+                "name": "Green",
+                "value": 0
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 0
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 4
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 0
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "1998",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 3
+            },
+            {
+                "name": "Blue",
+                "value": 0
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 2
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 4
+            },
+            {
+                "name": "Green",
+                "value": 0
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 5
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 1
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 1
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 0
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "1999",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 2
+            },
+            {
+                "name": "Blue",
+                "value": 1
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 1
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 1
+            },
+            {
+                "name": "Green",
+                "value": 0
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 15
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 0
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 10
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 0
+            },
+            {
+                "name": "Yellow",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "Year": "2000",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 8
+            },
+            {
+                "name": "Blue",
+                "value": 3
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 7
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 2
+            },
+            {
+                "name": "Green",
+                "value": 2
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 4
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 3
+            },
+            {
+                "name": "Red",
+                "value": 0
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 15
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 1
+            },
+            {
+                "name": "Yellow",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "Year": "2001",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 3
+            },
+            {
+                "name": "Blue",
+                "value": 6
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 2
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 3
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 0
+            },
+            {
+                "name": "Gray",
+                "value": 4
+            },
+            {
+                "name": "Green",
+                "value": 2
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 4
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 9
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 1
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "2002",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 4
+            },
+            {
+                "name": "Blue",
+                "value": 5
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 1
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 3
+            },
+            {
+                "name": "Gray",
+                "value": 3
+            },
+            {
+                "name": "Green",
+                "value": 1
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 1
+            },
+            {
+                "name": "Pink",
+                "value": 1
+            },
+            {
+                "name": "Platinum",
+                "value": 1
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 4
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 10
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 5
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "2003",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 8
+            },
+            {
+                "name": "Blue",
+                "value": 22
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 0
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 2
+            },
+            {
+                "name": "Gray",
+                "value": 12
+            },
+            {
+                "name": "Green",
+                "value": 2
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 2
+            },
+            {
+                "name": "Pink",
+                "value": 0
+            },
+            {
+                "name": "Platinum",
+                "value": 1
+            },
+            {
+                "name": "Purple",
+                "value": 2
+            },
+            {
+                "name": "Red",
+                "value": 8
+            },
+            {
+                "name": "Rose",
+                "value": 1
+            },
+            {
+                "name": "Silver",
+                "value": 28
+            },
+            {
+                "name": "Titanium",
+                "value": 1
+            },
+            {
+                "name": "Turquoise",
+                "value": 1
+            },
+            {
+                "name": "Violet",
+                "value": 2
+            },
+            {
+                "name": "White",
+                "value": 7
+            },
+            {
+                "name": "Yellow",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "Year": "2004",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 22
+            },
+            {
+                "name": "Blue",
+                "value": 36
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 1
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 5
+            },
+            {
+                "name": "Gray",
+                "value": 15
+            },
+            {
+                "name": "Green",
+                "value": 3
+            },
+            {
+                "name": "Lightblue",
+                "value": 2
+            },
+            {
+                "name": "Lime",
+                "value": 2
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 3
+            },
+            {
+                "name": "Pink",
+                "value": 3
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 3
+            },
+            {
+                "name": "Red",
+                "value": 12
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 92
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 1
+            },
+            {
+                "name": "White",
+                "value": 10
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "2005",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 92
+            },
+            {
+                "name": "Blue",
+                "value": 21
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 1
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 1
+            },
+            {
+                "name": "Gray",
+                "value": 13
+            },
+            {
+                "name": "Green",
+                "value": 4
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 3
+            },
+            {
+                "name": "Pink",
+                "value": 6
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 2
+            },
+            {
+                "name": "Red",
+                "value": 13
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 91
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 19
+            },
+            {
+                "name": "Yellow",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Year": "2006",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 145
+            },
+            {
+                "name": "Blue",
+                "value": 17
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 3
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 3
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 6
+            },
+            {
+                "name": "Gray",
+                "value": 11
+            },
+            {
+                "name": "Green",
+                "value": 2
+            },
+            {
+                "name": "Lightblue",
+                "value": 1
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 4
+            },
+            {
+                "name": "Pink",
+                "value": 19
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 3
+            },
+            {
+                "name": "Red",
+                "value": 18
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 93
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 2
+            },
+            {
+                "name": "White",
+                "value": 20
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "2007",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 167
+            },
+            {
+                "name": "Blue",
+                "value": 23
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 6
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 1
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 2
+            },
+            {
+                "name": "Darkred",
+                "value": 1
+            },
+            {
+                "name": "Fuchsia",
+                "value": 2
+            },
+            {
+                "name": "Gold",
+                "value": 5
+            },
+            {
+                "name": "Gray",
+                "value": 26
+            },
+            {
+                "name": "Green",
+                "value": 6
+            },
+            {
+                "name": "Lightblue",
+                "value": 1
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 5
+            },
+            {
+                "name": "Pink",
+                "value": 10
+            },
+            {
+                "name": "Platinum",
+                "value": 1
+            },
+            {
+                "name": "Purple",
+                "value": 2
+            },
+            {
+                "name": "Red",
+                "value": 18
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 62
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 29
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Year": "2008",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 189
+            },
+            {
+                "name": "Blue",
+                "value": 20
+            },
+            {
+                "name": "Bronze",
+                "value": 2
+            },
+            {
+                "name": "Brown",
+                "value": 5
+            },
+            {
+                "name": "Champagne",
+                "value": 1
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 2
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 1
+            },
+            {
+                "name": "Gold",
+                "value": 6
+            },
+            {
+                "name": "Gray",
+                "value": 31
+            },
+            {
+                "name": "Green",
+                "value": 7
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 1
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 5
+            },
+            {
+                "name": "Pink",
+                "value": 12
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 9
+            },
+            {
+                "name": "Red",
+                "value": 28
+            },
+            {
+                "name": "Rose",
+                "value": 4
+            },
+            {
+                "name": "Silver",
+                "value": 32
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 3
+            },
+            {
+                "name": "White",
+                "value": 19
+            },
+            {
+                "name": "Yellow",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "Year": "2009",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 193
+            },
+            {
+                "name": "Blue",
+                "value": 27
+            },
+            {
+                "name": "Bronze",
+                "value": 4
+            },
+            {
+                "name": "Brown",
+                "value": 10
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 1
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 2
+            },
+            {
+                "name": "Fuchsia",
+                "value": 1
+            },
+            {
+                "name": "Gold",
+                "value": 2
+            },
+            {
+                "name": "Gray",
+                "value": 29
+            },
+            {
+                "name": "Green",
+                "value": 11
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 1
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 2
+            },
+            {
+                "name": "Pink",
+                "value": 28
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 4
+            },
+            {
+                "name": "Red",
+                "value": 29
+            },
+            {
+                "name": "Rose",
+                "value": 3
+            },
+            {
+                "name": "Silver",
+                "value": 33
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 2
+            },
+            {
+                "name": "Violet",
+                "value": 5
+            },
+            {
+                "name": "White",
+                "value": 34
+            },
+            {
+                "name": "Yellow",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "Year": "2010",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 302
+            },
+            {
+                "name": "Blue",
+                "value": 20
+            },
+            {
+                "name": "Bronze",
+                "value": 2
+            },
+            {
+                "name": "Brown",
+                "value": 7
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 1
+            },
+            {
+                "name": "Darkgray",
+                "value": 1
+            },
+            {
+                "name": "Darkred",
+                "value": 1
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 1
+            },
+            {
+                "name": "Gray",
+                "value": 35
+            },
+            {
+                "name": "Green",
+                "value": 10
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 4
+            },
+            {
+                "name": "Pink",
+                "value": 26
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 6
+            },
+            {
+                "name": "Red",
+                "value": 24
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 26
+            },
+            {
+                "name": "Titanium",
+                "value": 2
+            },
+            {
+                "name": "Turquoise",
+                "value": 3
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 60
+            },
+            {
+                "name": "Yellow",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "Year": "2011",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 337
+            },
+            {
+                "name": "Blue",
+                "value": 19
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 8
+            },
+            {
+                "name": "Champagne",
+                "value": 1
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 2
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 2
+            },
+            {
+                "name": "Darkred",
+                "value": 3
+            },
+            {
+                "name": "Fuchsia",
+                "value": 2
+            },
+            {
+                "name": "Gold",
+                "value": 7
+            },
+            {
+                "name": "Gray",
+                "value": 31
+            },
+            {
+                "name": "Green",
+                "value": 9
+            },
+            {
+                "name": "Lightblue",
+                "value": 1
+            },
+            {
+                "name": "Lime",
+                "value": 2
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 27
+            },
+            {
+                "name": "Pink",
+                "value": 32
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 6
+            },
+            {
+                "name": "Red",
+                "value": 61
+            },
+            {
+                "name": "Rose",
+                "value": 1
+            },
+            {
+                "name": "Silver",
+                "value": 42
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 1
+            },
+            {
+                "name": "Violet",
+                "value": 7
+            },
+            {
+                "name": "White",
+                "value": 107
+            },
+            {
+                "name": "Yellow",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "Year": "2012",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 273
+            },
+            {
+                "name": "Blue",
+                "value": 25
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 8
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 8
+            },
+            {
+                "name": "Darkblue",
+                "value": 0
+            },
+            {
+                "name": "Darkgray",
+                "value": 5
+            },
+            {
+                "name": "Darkred",
+                "value": 1
+            },
+            {
+                "name": "Fuchsia",
+                "value": 1
+            },
+            {
+                "name": "Gold",
+                "value": 8
+            },
+            {
+                "name": "Gray",
+                "value": 33
+            },
+            {
+                "name": "Green",
+                "value": 7
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 2
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 7
+            },
+            {
+                "name": "Pink",
+                "value": 19
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 4
+            },
+            {
+                "name": "Red",
+                "value": 62
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 38
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 3
+            },
+            {
+                "name": "White",
+                "value": 194
+            },
+            {
+                "name": "Yellow",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "Year": "2013",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 247
+            },
+            {
+                "name": "Blue",
+                "value": 39
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 6
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 1
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 10
+            },
+            {
+                "name": "Darkred",
+                "value": 1
+            },
+            {
+                "name": "Fuchsia",
+                "value": 2
+            },
+            {
+                "name": "Gold",
+                "value": 9
+            },
+            {
+                "name": "Gray",
+                "value": 39
+            },
+            {
+                "name": "Green",
+                "value": 9
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 1
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 1
+            },
+            {
+                "name": "Orange",
+                "value": 4
+            },
+            {
+                "name": "Pink",
+                "value": 28
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 6
+            },
+            {
+                "name": "Red",
+                "value": 46
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 33
+            },
+            {
+                "name": "Titanium",
+                "value": 1
+            },
+            {
+                "name": "Turquoise",
+                "value": 1
+            },
+            {
+                "name": "Violet",
+                "value": 1
+            },
+            {
+                "name": "White",
+                "value": 257
+            },
+            {
+                "name": "Yellow",
+                "value": 17
+            }
+        ]
+    },
+    {
+        "Year": "2014",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 258
+            },
+            {
+                "name": "Blue",
+                "value": 63
+            },
+            {
+                "name": "Bronze",
+                "value": 4
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 3
+            },
+            {
+                "name": "Copper",
+                "value": 3
+            },
+            {
+                "name": "Cyan",
+                "value": 1
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 9
+            },
+            {
+                "name": "Darkred",
+                "value": 1
+            },
+            {
+                "name": "Fuchsia",
+                "value": 1
+            },
+            {
+                "name": "Gold",
+                "value": 49
+            },
+            {
+                "name": "Gray",
+                "value": 37
+            },
+            {
+                "name": "Green",
+                "value": 21
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 1
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 2
+            },
+            {
+                "name": "Orange",
+                "value": 14
+            },
+            {
+                "name": "Pink",
+                "value": 23
+            },
+            {
+                "name": "Platinum",
+                "value": 4
+            },
+            {
+                "name": "Purple",
+                "value": 16
+            },
+            {
+                "name": "Red",
+                "value": 49
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 32
+            },
+            {
+                "name": "Titanium",
+                "value": 4
+            },
+            {
+                "name": "Turquoise",
+                "value": 3
+            },
+            {
+                "name": "Violet",
+                "value": 3
+            },
+            {
+                "name": "White",
+                "value": 282
+            },
+            {
+                "name": "Yellow",
+                "value": 33
+            }
+        ]
+    },
+    {
+        "Year": "2015",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 181
+            },
+            {
+                "name": "Blue",
+                "value": 60
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 5
+            },
+            {
+                "name": "Champagne",
+                "value": 1
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 2
+            },
+            {
+                "name": "Darkgray",
+                "value": 4
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 1
+            },
+            {
+                "name": "Gold",
+                "value": 102
+            },
+            {
+                "name": "Gray",
+                "value": 45
+            },
+            {
+                "name": "Green",
+                "value": 13
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 5
+            },
+            {
+                "name": "Mint",
+                "value": 5
+            },
+            {
+                "name": "Orange",
+                "value": 11
+            },
+            {
+                "name": "Pink",
+                "value": 27
+            },
+            {
+                "name": "Platinum",
+                "value": 4
+            },
+            {
+                "name": "Purple",
+                "value": 0
+            },
+            {
+                "name": "Red",
+                "value": 31
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 38
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 219
+            },
+            {
+                "name": "Yellow",
+                "value": 18
+            }
+        ]
+    },
+    {
+        "Year": "2016",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 102
+            },
+            {
+                "name": "Blue",
+                "value": 36
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 5
+            },
+            {
+                "name": "Champagne",
+                "value": 2
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 8
+            },
+            {
+                "name": "Darkgray",
+                "value": 8
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 202
+            },
+            {
+                "name": "Gray",
+                "value": 47
+            },
+            {
+                "name": "Green",
+                "value": 3
+            },
+            {
+                "name": "Lightblue",
+                "value": 1
+            },
+            {
+                "name": "Lime",
+                "value": 2
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 1
+            },
+            {
+                "name": "Orange",
+                "value": 5
+            },
+            {
+                "name": "Pink",
+                "value": 24
+            },
+            {
+                "name": "Platinum",
+                "value": 1
+            },
+            {
+                "name": "Purple",
+                "value": 1
+            },
+            {
+                "name": "Red",
+                "value": 10
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 46
+            },
+            {
+                "name": "Titanium",
+                "value": 1
+            },
+            {
+                "name": "Turquoise",
+                "value": 1
+            },
+            {
+                "name": "Violet",
+                "value": 0
+            },
+            {
+                "name": "White",
+                "value": 96
+            },
+            {
+                "name": "Yellow",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Year": "2017",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 111
+            },
+            {
+                "name": "Blue",
+                "value": 65
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 3
+            },
+            {
+                "name": "Champagne",
+                "value": 2
+            },
+            {
+                "name": "Copper",
+                "value": 3
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 5
+            },
+            {
+                "name": "Darkgray",
+                "value": 3
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 138
+            },
+            {
+                "name": "Gray",
+                "value": 34
+            },
+            {
+                "name": "Green",
+                "value": 4
+            },
+            {
+                "name": "Lightblue",
+                "value": 2
+            },
+            {
+                "name": "Lime",
+                "value": 1
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 1
+            },
+            {
+                "name": "Pink",
+                "value": 13
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 1
+            },
+            {
+                "name": "Red",
+                "value": 29
+            },
+            {
+                "name": "Rose",
+                "value": 3
+            },
+            {
+                "name": "Silver",
+                "value": 26
+            },
+            {
+                "name": "Titanium",
+                "value": 1
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 1
+            },
+            {
+                "name": "White",
+                "value": 32
+            },
+            {
+                "name": "Yellow",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "Year": "2018",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 87
+            },
+            {
+                "name": "Blue",
+                "value": 85
+            },
+            {
+                "name": "Bronze",
+                "value": 0
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 1
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 3
+            },
+            {
+                "name": "Darkgray",
+                "value": 1
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 99
+            },
+            {
+                "name": "Gray",
+                "value": 17
+            },
+            {
+                "name": "Green",
+                "value": 7
+            },
+            {
+                "name": "Lightblue",
+                "value": 1
+            },
+            {
+                "name": "Lime",
+                "value": 1
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 3
+            },
+            {
+                "name": "Pink",
+                "value": 17
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 9
+            },
+            {
+                "name": "Red",
+                "value": 44
+            },
+            {
+                "name": "Rose",
+                "value": 1
+            },
+            {
+                "name": "Silver",
+                "value": 18
+            },
+            {
+                "name": "Titanium",
+                "value": 3
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 2
+            },
+            {
+                "name": "White",
+                "value": 17
+            },
+            {
+                "name": "Yellow",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "Year": "2019",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 107
+            },
+            {
+                "name": "Blue",
+                "value": 108
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 8
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 2
+            },
+            {
+                "name": "Darkblue",
+                "value": 5
+            },
+            {
+                "name": "Darkgray",
+                "value": 1
+            },
+            {
+                "name": "Darkred",
+                "value": 3
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 16
+            },
+            {
+                "name": "Gray",
+                "value": 18
+            },
+            {
+                "name": "Green",
+                "value": 27
+            },
+            {
+                "name": "Lightblue",
+                "value": 2
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 2
+            },
+            {
+                "name": "Orange",
+                "value": 11
+            },
+            {
+                "name": "Pink",
+                "value": 7
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 18
+            },
+            {
+                "name": "Red",
+                "value": 42
+            },
+            {
+                "name": "Rose",
+                "value": 2
+            },
+            {
+                "name": "Silver",
+                "value": 9
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 7
+            },
+            {
+                "name": "White",
+                "value": 38
+            },
+            {
+                "name": "Yellow",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Year": "2020",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 82
+            },
+            {
+                "name": "Blue",
+                "value": 110
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 6
+            },
+            {
+                "name": "Darkgray",
+                "value": 1
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 5
+            },
+            {
+                "name": "Gray",
+                "value": 43
+            },
+            {
+                "name": "Green",
+                "value": 44
+            },
+            {
+                "name": "Lightblue",
+                "value": 3
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 3
+            },
+            {
+                "name": "Orange",
+                "value": 11
+            },
+            {
+                "name": "Pink",
+                "value": 10
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 16
+            },
+            {
+                "name": "Red",
+                "value": 35
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 27
+            },
+            {
+                "name": "Titanium",
+                "value": 1
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 10
+            },
+            {
+                "name": "White",
+                "value": 69
+            },
+            {
+                "name": "Yellow",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "Year": "2021",
+        "Colors": [
+            {
+                "name": "Black",
+                "value": 5
+            },
+            {
+                "name": "Blue",
+                "value": 14
+            },
+            {
+                "name": "Bronze",
+                "value": 1
+            },
+            {
+                "name": "Brown",
+                "value": 1
+            },
+            {
+                "name": "Champagne",
+                "value": 0
+            },
+            {
+                "name": "Copper",
+                "value": 0
+            },
+            {
+                "name": "Cyan",
+                "value": 0
+            },
+            {
+                "name": "Darkblue",
+                "value": 1
+            },
+            {
+                "name": "Darkgray",
+                "value": 0
+            },
+            {
+                "name": "Darkred",
+                "value": 0
+            },
+            {
+                "name": "Fuchsia",
+                "value": 0
+            },
+            {
+                "name": "Gold",
+                "value": 2
+            },
+            {
+                "name": "Gray",
+                "value": 1
+            },
+            {
+                "name": "Green",
+                "value": 4
+            },
+            {
+                "name": "Lightblue",
+                "value": 0
+            },
+            {
+                "name": "Lime",
+                "value": 0
+            },
+            {
+                "name": "Metallic",
+                "value": 0
+            },
+            {
+                "name": "Mint",
+                "value": 0
+            },
+            {
+                "name": "Orange",
+                "value": 0
+            },
+            {
+                "name": "Pink",
+                "value": 2
+            },
+            {
+                "name": "Platinum",
+                "value": 0
+            },
+            {
+                "name": "Purple",
+                "value": 3
+            },
+            {
+                "name": "Red",
+                "value": 6
+            },
+            {
+                "name": "Rose",
+                "value": 0
+            },
+            {
+                "name": "Silver",
+                "value": 7
+            },
+            {
+                "name": "Titanium",
+                "value": 0
+            },
+            {
+                "name": "Turquoise",
+                "value": 0
+            },
+            {
+                "name": "Violet",
+                "value": 1
+            },
+            {
+                "name": "White",
+                "value": 1
+            },
+            {
+                "name": "Yellow",
+                "value": 0
+            }
+        ]
+    }
+]

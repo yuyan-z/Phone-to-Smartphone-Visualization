@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Phone to Smartphone</title>
+        <!-- https://d3js.org/ -->
+        <script type="text/javascript" src="js/d3.v7.min.js"></script>
+        <script type="text/javascript" src="js/d3-simple-slider.js"></script>
+        <script type="text/javascript" src="js/d3.layout.cloud.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="js/bar.js"></script>
+        <script type="text/javascript" src="js/stream.js"></script>
+        <script type="text/javascript" src="js/bubble.js"></script>
+        <script type="text/javascript" src="js/wordcloud.js"></script>
+
+        <script type="text/javascript" src="js/size.js"></script>
+        <style>
+svg {
+    display: block;
+    font: 10px sans-serif;
+    border: 1px solid #444;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slider text {
+  fill: black;
+}
+
+.button {
+  background-color: #e7e7e7;
+  border: none;
+  color: black;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border: 2px solid #555555;
+}
+
+.button:hover {
+  background-color: #c1c1c1;
+}
+
+        </style>
+    </head>
+
+    <!-- <body onload="createViz()"> -->
+    <body onload="createViz()">
+        <div id="main">
+            <div style="float:left">
+                <form>
+                    <input class="button" type="button" value="Brands" onclick="showBrands();" id="btn1" style="background:#c1c1c1"/>
+                    <input class="button" type="button" value="Sizes" onclick="showSizes();" id="btn2"/>
+                    <input class="button" type="button" value="Others" onclick="showOthers();" id="btn3"/>
+                </form>
+            </div>
+        </div>
+    </body>
+
+</html>
