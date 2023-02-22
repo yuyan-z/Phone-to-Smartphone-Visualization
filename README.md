@@ -1,5 +1,5 @@
 # Phone-to-Smartphone-Visualization
-My course porject for INF552-Data Visualization
+My course project for INF552-Data Visualization
 
 ![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
 
