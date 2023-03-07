@@ -2,7 +2,9 @@
 My course project for INF552-Data Visualization
 
 ## Dataset
-The dataset is from: https://www.kaggle.com/datasets/mahipalsingh/phone-to-smartphone
+The dataset selected is a publicly available dataset on Kaggle about mobile phones
+released from 1994 to the third quarter of 2021. https://www.kaggle.com/datasets/mahipalsingh/phone-to-smartphone
+
 
 ![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
 
