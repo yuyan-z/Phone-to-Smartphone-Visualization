@@ -13,7 +13,6 @@ As many of these features contain a very large number of null values, and the fo
 ### Slider
 - To facilitate the observation of the evolution of the phone, I created a double-ended slider. By dragging its start and end points, we can visualize data for a period or a year
 
-To describe the development of phone brands over the years, we create a bar chart and a stream chart.
 ### Visualization of Brands
 Bar Chart
 - Each bar represents a brand and is identified by color. 
@@ -28,7 +27,9 @@ Stream Chart
 
 ![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
 
-## Visualization
+## Visualization of the Size
+Line Chart
+- Illuste the average length, width, thickness and weight of phones in a year
 
 
 
