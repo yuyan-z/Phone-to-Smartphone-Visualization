@@ -8,7 +8,7 @@ released from 1994 to the third quarter of 2021. https://www.kaggle.com/datasets
 ## Data Pre-processing
 As many of these features contain a very large number of null values, and the format of the records is not uniform, I use Python Pandas to extract the information needed. The processed data is stored in ./data
 
-##Design
+## Design
 - To facilitate the observation of the evolution of the phone over the years, I created a double-ended slider. By dragging its start and end points, we can visualize data for a period or a year.
 
 ## Visualization
