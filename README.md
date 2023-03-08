@@ -6,7 +6,7 @@ The dataset selected is a publicly available dataset on Kaggle about mobile phon
 released from 1994 to the third quarter of 2021. https://www.kaggle.com/datasets/mahipalsingh/phone-to-smartphone
 
 ## Data Pre-processing
-As many of these features contain a very large number of null values, and the format of the records is not uniform, I use Python Pandas to extract the information needed.
+As many of these features contain a very large number of null values, and the format of the records is not uniform, I use Python Pandas to extract the information needed. The processed data is stored in the folder /data
 
 ![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
 
