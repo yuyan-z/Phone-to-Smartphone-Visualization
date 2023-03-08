@@ -14,20 +14,23 @@ As many of these features contain a very large number of null values, and the fo
 - To facilitate the observation of the evolution of the phone, I created a double-ended slider. By dragging its start and end points, we can visualize data for a period or a year
 
 To describe the development of phone brands over the years, we create a bar chart and a stream chart.
-### Bar Chart
+### Visualization of Brands
+Bar Chart
 - Each bar represents a brand and is identified by color. 
 - Its height indicates the cumulative number of phones produced by the brand. 
 - To clearly observe the difference in the number of phones produced by different brands, we made the bars sorted from highest to lowest. 
 - A tooltip is added, which could display detailed information including brand name, production and ranking, when the mouse is hovering over a bar.
 
-### Stream Chart
+Stream Chart
 - Each stream represents a brand and its area indicates production. 
 - Also sorted to facilitate observation.
 - As both of the bar chart and stream chart use data about brands and production, I create an interaction between them by classing the bars and streams corresponding to the same brand. When we select a bar or a stream, the corresponding part in the other char will be also selected.
 
+![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
+
 ## Visualization
 
-![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
+
 
 ![Screenshot2](https://user-images.githubusercontent.com/64955334/220603359-d2686323-3347-4578-89a5-2991e9871d62.jpg)
 
