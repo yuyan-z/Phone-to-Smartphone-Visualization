@@ -1,5 +1,5 @@
 # Phone-to-Smartphone-Visualization
-My course project for INF552-Data Visualization
+My course project for INF552-Data Visualization with D3.js
 
 ## Dataset
 The dataset selected is a publicly available dataset on Kaggle about mobile phones
