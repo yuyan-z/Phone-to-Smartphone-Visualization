@@ -29,8 +29,11 @@ Stream Chart
 
 ## Visualization of the Size
 Line Chart
-- Illuste the average length, width, thickness and weight of phones in a year
+- Illuste the average length, width, thickness and weight of phones
 
+Scatter Chart
+- Illuste the length, width, thickness and weight of each phone
+- For a more detailed view, When a point is selected, the information about this phone is displayed at the right of the chart, including the name, the brand and a photo of it.
 
 
 ![Screenshot2](https://user-images.githubusercontent.com/64955334/220603359-d2686323-3347-4578-89a5-2991e9871d62.jpg)
