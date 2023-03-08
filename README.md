@@ -24,6 +24,7 @@ Stream Chart
 - Each stream represents a brand and its area indicates production. 
 - Also sorted to facilitate observation.
 - As both of the bar chart and stream chart use data about brands and production, I create an interaction between them by classing the bars and streams corresponding to the same brand. When we select a bar or a stream, the corresponding part in the other char will be also selected.
+
 ![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
 
 ## Visualization of the Size
@@ -33,6 +34,7 @@ Line Chart
 Scatter Chart
 - Illuste the length, width, thickness and weight of each phone.
 - For a more detailed view, When a point is selected, the information about this phone is displayed at the right of the chart, including the name, the brand and a photo of it.
+
 ![Screenshot2](https://user-images.githubusercontent.com/64955334/220603359-d2686323-3347-4578-89a5-2991e9871d62.jpg)
 
 ### Visualization of Other Features
@@ -43,4 +45,5 @@ Bubble Chart
 Word Cloud
 - Since our dataset has 68 features and most of their values have little diversity or are null, I decide to process them all together with the word cloud.
 - It can describe the information in text and reflect its frequency in font size.
+
 ![Screenshot3](https://user-images.githubusercontent.com/64955334/220603381-b0c6d7db-3eb4-48c8-8238-f8347b6e8c7b.jpg)
