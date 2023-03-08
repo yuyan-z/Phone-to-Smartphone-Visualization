@@ -20,6 +20,11 @@ To describe the development of phone brands over the years, we create a bar char
 - To clearly observe the difference in the number of phones produced by different brands, we made the bars sorted from highest to lowest. 
 - A tooltip is added, which could display detailed information including brand name, production and ranking, when the mouse is hovering over a bar.
 
+### Stream Chart
+- Each stream represents a brand and its area indicates production. 
+- Also sorted to facilitate observation.
+- As both of the bar chart and stream chart use data about brands and production, I create an interaction between them by classing the bars and streams corresponding to the same brand. When we select a bar or a stream, the corresponding part in the other char will be also selected.
+
 ## Visualization
 
 ![Screenshot1](https://user-images.githubusercontent.com/64955334/220603338-64db2d72-24e0-4240-ac78-4d468b486e59.jpg)
