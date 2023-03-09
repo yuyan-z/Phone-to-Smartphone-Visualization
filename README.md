@@ -1,4 +1,4 @@
-# Phone-to-Smartphone-Visualization
+# Phone to Smartphone Visualization
 My course project for INF552-Data Visualization with D3.js
 
 ## Dataset
