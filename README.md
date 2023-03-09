@@ -1,5 +1,5 @@
 # Phone to Smartphone Visualization
-My course project for INF552-Data Visualization with D3.js
+My course project for Data Visualization with D3.js. The web app is available on [Netlify](https://6409b6a2746b6c0008ad908f--phone-to-smartphone.netlify.app/)
 
 ## Dataset
 The dataset selected is a publicly available dataset on Kaggle about mobile phones
