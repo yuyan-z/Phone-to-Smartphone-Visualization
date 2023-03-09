@@ -75,13 +75,13 @@ function createViz() {
 
 function loadData(svg) {
     let promises = [
-        d3.csv("BrandsIdx.csv"),
-        d3.json("Brands.json"),
-        d3.csv("BrandsYears.csv"),
-        d3.json("Colors.json"),
-        d3.json("Wordcloud.json"),
+        d3.csv("/data/BrandsIdx.csv"),
+        d3.json("/data/Brands.json"),
+        d3.csv("/data/BrandsYears.csv"),
+        d3.json("/data/Colors.json"),
+        d3.json("/data/Wordcloud.json"),
 
-        d3.csv("year_brand_size_total.csv"),
+        d3.csv("/data/year_brand_size_total.csv"),
     ];
     Promise.all(promises).then(function (data) {
         ctx.brandsidx = data[0][0];
